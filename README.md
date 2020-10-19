@@ -8,4 +8,4 @@ It's pretty simple, launch the EXE file, and type your info in the blanks. Be su
 
 ''C:\Users\25gbrickner\Desktop\Tetris\''
 
-![pogchamp](https://imgur.com/a/d9sI6uj)
+![pogchamp](https://i.imgur.com/bbN5MrQ.png)
